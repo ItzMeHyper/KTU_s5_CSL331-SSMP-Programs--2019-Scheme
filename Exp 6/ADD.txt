@@ -1,0 +1,15 @@
+     MOV SI,3000
+     MOV AL,[SI]
+     INC SI
+     MOV AH,[SI]
+     INC SI
+     MOV BL,[SI]
+     INC SI
+     MOV BH,[SI]
+     ADD AX,BX
+     INC SI
+     MOV [SI],AL
+     INC SI
+     MOV [SI],AH
+    HLT
+
