@@ -15,6 +15,6 @@ KTU S4 CSL 331 - System Software and Microprocessors [SSMP] Lab Programs [2019 S
 | 8 | Study Of Assembler And Debugger Commands |
 | 9 | MASM Program: Addition |
 | 10 | MASM Program: Multiplication |
-| 11 | 8086 Trainer Kit: Absolute Loader |
+| 11 | Absolute Loader |
 
 **Programs or Program name may vary according to colleges**
